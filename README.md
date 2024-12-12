@@ -10,4 +10,4 @@
 <li>[![Day8 ](Generate a Full Year Calendar in Python 📅.py)](https://github.com/ishanwalia7579/Python--project/blob/main/Generate%20a%20Full%20Year%20Calendar%20in%20Python%20%F0%9F%93%85.py)<br><img src="calendar.png" width="350px"></li><br>
 <li>[![Day9 ](random pin generate.py)](https://github.com/ishanwalia7579/Python--project/blob/main/random%20pin%20generate.py)<br><img src="random pin gerentor.png"></li>
 <br>
-<li>[![Day10 ](Fun with Cowsay in Python 🐮.py)]()<br><img src="cow.png"></li>
+<li>[![Day10 ](Fun with Cowsay in Python 🐮.py)](https://github.com/ishanwalia7579/Python--project/blob/main/Fun%20with%20Cowsay%20in%20Python%20%F0%9F%90%AE.py)<br><img src="cow.png"></li>
