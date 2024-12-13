@@ -12,4 +12,4 @@
 <br><br>
 <li>[![Day10 ](Fun with Cowsay in Python 🐮.py)](https://github.com/ishanwalia7579/Python--project/blob/main/Fun%20with%20Cowsay%20in%20Python%20%F0%9F%90%AE.py)<br><img src="cow.png"></li>
 <br><br>
-<li>[![Day11 ](Real-Time Clock Using Tkinter.py)](.py)<br><img src="Digital clock.png"></li>
+<li>[![Day11 ](Real-Time Clock Using Tkinter.py)](https://github.com/ishanwalia7579/Python--project/blob/main/Real-Time%20Clock%20Using%20Tkinter.py)<br><img src="digital clock.png"></li>
