@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spotify Clone</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    <div class="navbar">
+        <h1>Spotify</h1>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Search</a></li>
+            <li><a href="#">Library</a></li>
+            <li class="menu">
+                <a href="#">Menu</a>
+                <!-- Dropdown menu -->
+                <div class="menu-content">
+                    <a href="#">Profile</a>
+                    <a href="#">Settings</a>
+                    <a href="#">Logout</a>
+                </div>
+            </li>
+        </ul>
+        <!-- Dark Mode Toggle -->
+        <button class="toggle-btn" onclick="toggleDarkMode()">Dark Mode</button>
+    </div>
+    <div class="main-content">
+        <h2>Trending Songs</h2>
+        <div class="music-section">
+            <div class="song">
+                <img src="SIDHU.jpg" alt="Song Cover">
+                <div>
+                    <h3>Velly Banda</h3>
+                    <p>Sidhu Moose Wala</p>
+                    <audio controls>
+                        <source src="Velly_Banda_1.mp3" type="audio/mpeg">
+                        Your browser does not support the audio element.
+                    </audio>
+                </div>
+            </div>
+            
+            <div class="song">
+                <img src="kamal.jpg" alt="Song Cover">
+                <div>
+                    <h3>Sarkari Ban</h3>
+                    <p>Artist Name</p>
+                    <audio controls>
+                        <source src="Sarkari_Ban_1.mp3" type="audio/mpeg">
+                        Your browser does not support the audio element.
+                    </audio>
+                </div>
+            </div>
+            <br>
+             <div class="main-content">
+        <h2>Hanuman ji</h2>
+        <div class="music-section">
+            <div class="song">
+                <img src="Shri-Ram-Jaanki-Baithe-Hai-Hindi.jpg" alt="Song Cover">
+                <div>
+                     <h3>Shri-Ram-Janki-Lakhbir-Singh-Lakha</h3>
+                    <p>Hanuman Ji</p>
+                    <audio controls>
+                        <source src="Shri-Ram-Janki-Lakhbir-Singh-Lakha.mp3" type="audio/mpeg">
+                        Your browser does not support the audio element.
+                    </audio>
+                </div>
+                 <div class="main-content">
+        <h2>Hanuman ji</h2>
+        <div class="music-section">
+            <div class="song">
+                <img src="Shri-Ram-Jaanki-Baithe-Hai-Hindi.jpg" alt="Song Cover">
+                <div>
+                     <h3>Shri-Ram-Janki-Lakhbir-Singh-Lakha</h3>
+                    <p>Hanuman Ji</p>
+                    <audio controls>
+                        <source src="Shri-Ram-Janki-Lakhbir-Singh-Lakha.mp3" type="audio/mpeg">
+                        Your browser does not support the audio element.
+                    </audio>
+                </div>
+        </div>
+<br>
+        <!-- Video Playlist -->
+        <h2>Video Playlist</h2>
+        <div class="video-section">
+            <div class="video">
+                <video controls>
+                    <source src="videoplayback.mp4" type="video/mp4">
+                </video>
+                <p>Music Video 1</p>
+            </div>
+            <div class="video">
+                <video controls>
+                    <source src="Sarkari Ban video.mp4" type="video/mp4">
+                </video>
+                <p>Music Video 2</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        <div>
+            <img src="https://via.placeholder.com/40" alt="Song Cover">
+            <div>
+                <p>Now Playing: Song Title</p>
+                <p>Artist Name</p>
+            </div>
+        </div>
+        <div class="play-controls">
+            <p>Play Controls</p>
+        </div>
+    </div>
+
+    <script>
+        // Toggle dark mode functionality
+        function toggleDarkMode() {
+            document.body.classList.toggle('dark-mode');
+        }
+    </script>
+</body>
+</html>
