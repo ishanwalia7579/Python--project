@@ -1,0 +1,45 @@
+<h1>Question</h1>
+Basic Python Questions:
+What is Python?
+What are the key features of Python?
+What is the difference between Python 2 and Python 3?
+What are Python's data types?
+What is the difference between a list and a tuple?
+How do you define a variable in Python?
+What is the difference between is and == in Python?
+What are Python’s built-in data structures?
+What is a dictionary in Python?
+How do you take user input in Python?
+Control Flow & Loops:
+What are conditional statements in Python?
+What is the difference between for and while loops?
+How do you use the break, continue, and pass statements?
+What is the difference between range() and xrange()?
+Functions & Modules:
+How do you define a function in Python?
+What is the difference between return and print?
+What are lambda functions in Python?
+What is the purpose of *args and **kwargs?
+How do you import a module in Python?
+OOPs (Object-Oriented Programming):
+What is a class and object in Python?
+What is the difference between class variables and instance variables?
+What is inheritance? Explain types of inheritance in Python.
+What is polymorphism in Python?
+What are abstract classes in Python?
+Exception Handling:
+What is exception handling in Python?
+How do you use try, except, and finally in Python?
+What is the difference between SyntaxError and Exception?
+File Handling:
+How do you open a file in Python?
+What are the different file modes in Python (r, w, a, etc.)?
+How do you read a file line by line in Python?
+Miscellaneous Questions:
+What are Python’s built-in libraries?
+What is a Python virtual environment?
+How do you install a Python package?
+What is pip in Python?
+What is the use of with statement in Python?
+
+<h1>Answer</h1>
